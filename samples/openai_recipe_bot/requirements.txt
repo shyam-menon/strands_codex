@@ -1,0 +1,5 @@
+strands-agents
+strands-agents-tools
+duckduckgo-search
+openai
+python-dotenv
